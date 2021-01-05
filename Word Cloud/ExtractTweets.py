@@ -9,10 +9,12 @@ import re
 import traceback
 
 #Keys and tokens based on my created apps on Twitter
-access_token = "1263708696070156288-7upgQBw81ksMmy7bzE9Yfd3K0MqBet"
-access_token_secret = "UkvkEk90s9RPkvwCvgQDgDHYhYaqicpoiFhnIzqJjxFwo"
-consumer_key = "dD6MJ29PiYvMa5rxjOsBjgDkF"
-consumer_secret= "XkEf3KKJH98xWwuTmWBn6mZtH934aYuYPYzk29wx7sjeZCLBmw"
+#Enter your access_token, acess_token_secret, consumer_key, and consumer_secret for twitter account
+#The code won't be able to run without it and uncomment the following lines 14-17
+#access_token 
+#access_token_secret 
+#consumer_key 
+#consumer_secret
 
 #keywords to search for, in this case is COVID-19
 tracklist = ['COVID-19']
