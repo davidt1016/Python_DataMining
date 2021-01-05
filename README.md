@@ -18,3 +18,5 @@ There are four main data mining techniques used in the source codes namely, data
 
 Lastly, for stock analysis, it is a comparison between three well-known semiconductor stocks in 2020. For anyone who is interested in the analysis video, the link is as follow:
 https://www.youtube.com/watch?v=xRtaE-YMjko
+
+## Note: The source code, ExtractTweets.py, in Word Cloud file directory requires registration for Twitter API to run the code properly (there will be an error if one tries to run the code because this source code requires Twitter API). Currently, due to privacy concern with personal account, lines 14-17 has been commented out. Once one has completed register for Twitter API through this link:https://developer.twitter.com/en/apply-for-access , one can simply uncomment those lines and put their own personal Twitter API keys.
