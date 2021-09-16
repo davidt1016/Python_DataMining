@@ -1,4 +1,4 @@
-#Code is based on the tutorial provided by the TA through YouTube link:https://www.youtube.com/watch?v=WSTob0j3I3E&feature=youtu.be
+
 
 #Importing Library
 from tweepy.streaming import StreamListener
