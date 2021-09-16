@@ -1,4 +1,4 @@
-#Tokenizing the Tweet Data Code is based on the tutorial provided by the TA through YouTube link:https://www.youtube.com/watch?v=Cz2hSCEDJqs&feature=youtu.be
+
 
 
 #Importing all the required Python libraries for tokenizing
